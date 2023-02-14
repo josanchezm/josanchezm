@@ -13,7 +13,7 @@
 
 - 🚀 Know a little more about me, a self-taught programmer: **https://presentation-sheet-react.netlify.app/**
 
-- 📚 I have an advanced level of english (C2 EF SET Certificated): [https://www.efset.org/cert/toZrvP](https://www.efset.org/cert/toZrvP)
+- 📚 I have an advanced level of english (C2 - EF SET Certificated): [https://www.efset.org/cert/toZrvP](https://www.efset.org/cert/toZrvP)
 
 - ⚡ Fun fact: **I love eating 🍔, videogames🎮 and anime🐲**
 
