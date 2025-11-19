@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [jimisanchezm@hotmail.com](jimisanchezm@hotmail.com)
 
-- 🚀 Know a little more about me, a self-taught programmer: **https://presentation-sheet-react.netlify.app/**
+- 🚀 Know a little more about me, a self-taught programmer: **https://singular-baklava-b4006d.netlify.app/**
 
 - 📚 I have an advanced level of english (C2 - EF SET Certificated): [https://www.efset.org/cert/toZrvP](https://www.efset.org/cert/toZrvP)
 
